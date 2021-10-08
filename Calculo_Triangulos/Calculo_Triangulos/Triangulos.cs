@@ -15,28 +15,28 @@ namespace Calculo_Triangulos
         double Area;
         double Perimetro;
 
-        public
-        Triangulos()
+        
+        public Triangulos()
         {
-            this.Base = 0;
-            this.Altura = 0;
-            this.Hipotenusa = 0;
+            Base = 0;
+            Altura = 0;
+            Hipotenusa = 0;
         }
 
-        Triangulos(double Base, double Altura)
+        public Triangulos(double Base, double Altura)
         {
             this.Base = Base;
             this.Altura = Altura;
         }
 
-        Triangulos(double Base, double Altura, double Hipotenusa)
+        public Triangulos(double Base, double Altura, double Hipotenusa)
         {
             this.Base = Base;
             this.Altura = Altura;
             this.Hipotenusa = Hipotenusa;
         }
 
-        static Triangulos comparaArea(Triangulos T1, Triangulos T2)
+        public static Triangulos ComparaArea(Triangulos T1, Triangulos T2)
         {
             if (T1.GetArea() > T2.GetArea())
             {
@@ -54,7 +54,7 @@ namespace Calculo_Triangulos
 
         public void CalculaHipotenusa()
         {
-            this.Hipotenusa = Math.Sqrt(Math.Pow(Base, 2) + Math.Pow(Altura, 2));
+            this.Hipotenusa = Math.Round(Math.Sqrt(Math.Pow(Base, 2) + Math.Pow(Altura, 2)),2);
         }
 
         public void CalculaPerimetro()
