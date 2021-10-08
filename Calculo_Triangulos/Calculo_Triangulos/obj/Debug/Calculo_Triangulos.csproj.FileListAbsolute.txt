@@ -1,0 +1,7 @@
+C:\Users\queim\Documents\GitHub\SisSup_EA2\Calculo_Triangulos\Calculo_Triangulos\bin\Debug\Calculo_Triangulos.exe.config
+C:\Users\queim\Documents\GitHub\SisSup_EA2\Calculo_Triangulos\Calculo_Triangulos\bin\Debug\Calculo_Triangulos.exe
+C:\Users\queim\Documents\GitHub\SisSup_EA2\Calculo_Triangulos\Calculo_Triangulos\bin\Debug\Calculo_Triangulos.pdb
+C:\Users\queim\Documents\GitHub\SisSup_EA2\Calculo_Triangulos\Calculo_Triangulos\obj\Debug\Calculo_Triangulos.csprojAssemblyReference.cache
+C:\Users\queim\Documents\GitHub\SisSup_EA2\Calculo_Triangulos\Calculo_Triangulos\obj\Debug\Calculo_Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\queim\Documents\GitHub\SisSup_EA2\Calculo_Triangulos\Calculo_Triangulos\obj\Debug\Calculo_Triangulos.exe
+C:\Users\queim\Documents\GitHub\SisSup_EA2\Calculo_Triangulos\Calculo_Triangulos\obj\Debug\Calculo_Triangulos.pdb
